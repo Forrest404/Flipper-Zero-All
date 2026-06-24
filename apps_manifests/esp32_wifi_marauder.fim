@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: [ESP32] WiFi Marauder
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAU0lEQVR4nI2QQQoAMQgDJ0v//+XsQSxBXNicJMbRVrYBkFTFkG0BnA61MdU91VCFJjV95epJTe8Gs5m01rMRbGue8Zt4cnK78db56i9JsoD1o6dex/dEBRlYTdkAAAAASUVORK5CYII=
+Version Build API: 86.0
+UID: 649a9e0ec3d2eeadb4bd402e
+Version UID: 674ee5c725a4a6f1fb2f67ca
+Path: /ext/apps/GPIO/esp32_wifi_marauder.fap

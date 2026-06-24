@@ -1,0 +1,12 @@
+Filetype: Flipper BadUSB Settings File
+Version: 1
+layout: /ext/badusb/assets/layouts/en-US.kl
+interface: 0
+ble_bonding: true
+ble_pairing: 2
+ble_name: Speaker
+ble_mac: 06 82 43 F8 51 E6
+usb_manuf: 
+usb_product: 
+usb_vid: 0
+usb_pid: 0

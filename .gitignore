@@ -1,0 +1,21 @@
+# macOS metadata
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows / system volume metadata
+System Volume Information/
+Thumbs.db
+desktop.ini
+
+# Flipper temp / device state
+.tmp/
+.int/

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: empty
+type: parsed
+protocol: NEC42
+address: 6E 00 00 00
+command: 00 00 00 00

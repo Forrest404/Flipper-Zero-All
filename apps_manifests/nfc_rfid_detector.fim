@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: RFID detector
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQ0lEQVR4nK2QwQoAIAhDt+j/f/l1ySjyYJCgUxjqZkCVsKSLCXgRbGJmbk0x+ihH7oTAnp3KfmwlJV+Iu1rpwR5XDR8S50Hf2pmV4gAAAABJRU5ErkJggg==
+Version Build API: 87.0
+UID: 64bab179c3580ee96b18c8ad
+Version UID: 66e16f278784177b9dca8426
+Path: /ext/apps/Tools/nfc_rfid_detector.fap

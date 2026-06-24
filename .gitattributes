@@ -1,2 +1,15 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Flipper binary assets — never normalize line endings
+*.fap binary
+*.bin binary
+*.nfc binary
+*.sub binary
+*.rfid binary
+*.bm binary
+*.bmx binary
+*.fim binary
+*.fal binary
+*.dfu binary
+*.img binary
